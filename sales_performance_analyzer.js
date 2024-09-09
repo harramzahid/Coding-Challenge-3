@@ -22,5 +22,21 @@ function determineperformancerating(averagesales){
 }
 console.log("performance rating:", determineperformancerating)
 
-// Task 3 
+// Task 3 Create a function to identify top and bottom performers
+let employees = [
+    { name:Blob, sales:400},
+    { name:jonas, sales: 300},
+];
+// sorting the top and bottom performers
+employees.sort((a, b) => a.sales - b.sales);
+console.log(salesperson);
+
+function topandbottomperformers(salesperson){
+  if (salesperson a > b)
+    return "Top performer"
+  else if (salesperson b > a)  
+    return "Bottom Performer"
+}
+console.log("top and bottom performer:", topandbottomperformers)
+
 
