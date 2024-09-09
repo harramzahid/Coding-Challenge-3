@@ -39,4 +39,17 @@ function topandbottomperformers(salesperson){
 }
 console.log("top and bottom performer:", topandbottomperformers)
 
+// Task 4 generatePerformanceReport
+let calculateaveragesales = average sales;
+let determineperformancerating = performance rating;
+let findtopandbottomperformers = top and bottom performer;
+
+function generateperformancereport (salesdatas) {
+calculateaveragesales, determineperformancerating, findtopandbottomperformers;
+return " average sales", "performance rating", "top and bottom performer"
+};
+
+console.log(performancereport)
+
+
 
